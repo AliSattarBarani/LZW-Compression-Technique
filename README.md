@@ -1,7 +1,7 @@
-LZW-Compression-Technique <br>
-A Compression algorithm or technique used to compress the texts. <br> <br>
+<b> LZW-Compression-Technique </b> <br>
+<b> A Compression algorithm or technique used to compress the texts. </b> <br> <br>
 
-<u> Description: </u> <br>
+<u> Description: </u> <br> <br>
 an LZW consist of only from the pointer to the dictionary. The method starts by initializing the dictionary to the symbol in the alphabet is user 8-bits equal to 256 that the first entry for the first symbol that is none exists in the dictionary and each time this number plus one if the symbol doesn't exist in the dictionary (ASCII code  Table). <br> <br>
 
 <u> Steps of the algorithm: </u> <br>
