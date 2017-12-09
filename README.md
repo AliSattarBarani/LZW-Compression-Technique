@@ -1,4 +1,4 @@
-LZW-Compression-Technique
+LZW-Compression-Technique <br>
 A Compression algorithm or technique used to compress the texts. <br> <br>
 
 <u> Description: </u> <br>
